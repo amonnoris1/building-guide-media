@@ -1,0 +1,42 @@
+[
+  {
+    "id": "decoration",
+    "name": "Decoration",
+    "count": 43
+  },
+  {
+    "id": "medieval",
+    "name": "Medieval",
+    "count": 28
+  },
+  {
+    "id": "rustic",
+    "name": "Rustic",
+    "count": 26
+  },
+  {
+    "id": "modern",
+    "name": "Modern",
+    "count": 16
+  },
+  {
+    "id": "fantasy",
+    "name": "Fantasy",
+    "count": 13
+  },
+  {
+    "id": "survival",
+    "name": "Survival",
+    "count": 9
+  },
+  {
+    "id": "christmas",
+    "name": "Christmas",
+    "count": 8
+  },
+  {
+    "id": "halloween",
+    "name": "Halloween",
+    "count": 6
+  }
+]

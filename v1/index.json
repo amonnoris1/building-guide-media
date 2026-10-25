@@ -1,0 +1,14 @@
+{
+  "name": "Building Guide MCPE Trainer",
+  "version": 2,
+  "publicBase": "https://amonnoris1.github.io/building-guide-media",
+  "builds": 149,
+  "seeds": 21,
+  "steps": 14224,
+  "mediaFiles": 14224,
+  "endpoints": {
+    "builds": "/v1/builds.json",
+    "categories": "/v1/categories.json",
+    "steps": "/v1/media/builds/steps/{stepId}.webp"
+  }
+}
